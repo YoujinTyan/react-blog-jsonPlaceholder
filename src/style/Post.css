@@ -1,0 +1,14 @@
+.post-wrap {
+  max-width: 1120px;
+  margin: 0 auto;
+  display: inline-flex;
+  justify-content: left;
+  flex-wrap: wrap;
+}
+h1 {
+  color: #F5E2CD;
+}
+hr {
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
